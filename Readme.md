@@ -50,8 +50,3 @@ The repository is divided into the following sections:
 - Searching (Linear Search, Binary Search)
 - Recursion and Backtracking
 
-## #365DaysOfCode
-
-This repository is also a part of my #365DaysOfCode journey, where I aim to code and learn JavaScript every day. Each day, I will add new content, code snippets, or problem solutions to continue expanding my knowledge.
-
-Feel free to explore, clone, and use any part of this repository for your own learning journey!
